@@ -1,5 +1,9 @@
 # Origram
 
+> [!WARNING]
+> **This project is no longer maintained and the repository is archived.**
+> Origram is not updated with new Telegram releases and may stop working at any time. The code is kept as-is for reference; issues and pull requests are not accepted.
+
 **Origram** is an unofficial Android client for the [Telegram](https://telegram.org) messaging network, forked from the [official Telegram Android open source release](https://github.com/DrKLO/Telegram).
 
 The primary goal of this fork is to add **native [Outline](https://getoutline.org) proxy support** directly inside the app — no separate VPN app required.
